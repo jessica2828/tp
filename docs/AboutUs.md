@@ -16,7 +16,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/juliantayyc.png" width="200px">
 
-[[github](https://github.com/juliantayyc)]cd 
+[[github](https://github.com/juliantayyc)]
 [[portfolio](team/juliantayyc.md)]
 
 * Role: Team Lead
