@@ -6,7 +6,7 @@
 
 # EduContacts User Guide
 
-EduContacts is a **desktop app for Educators in Tertiary Institution to manage contacts, optimized for use via a  Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, AB3 can get your contact management tasks done faster than traditional GUI apps.
+EduContacts is a **desktop app for Educators in Tertiary Institution** to manage contacts, optimized for use via a **Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, AB3 can get your contact management tasks done faster than traditional GUI apps.
 
 <!-- * Table of Contents -->
 <page-nav-print />
@@ -15,30 +15,43 @@ EduContacts is a **desktop app for Educators in Tertiary Institution to manage c
 
 ## Quick start
 
-1. Ensure you have Java `17` or above installed in your Computer.
+1. **Ensure you have Java `17` or above installed in your Computer.** Verify your Java version by opening a terminal or command prompt and typing: `java -version`
 
-1. Download the latest `.jar` file from [here](https://github.com/se-edu/addressbook-level3/releases).
+1. Download the latest `.jar` file from [here](https://github.com/AY2425S1-CS2103T-F15-2/tp/releases/tag/v1.3).
 
 1. Copy the file to the folder you want to use as the _home folder_ for your AddressBook.
 
-1. Open a command terminal, `cd` into the folder you put the jar file in, and use the `java -jar educontacts.jar` command to run the application.<br>
+1. Open a command terminal, navigate into the folder you put the jar file in by using the `cd` command, and use the `java -jar EduContacts.jar` command to run the application.<br>
+
    A GUI similar to the below should appear in a few seconds. Note how the app contains some sample data.<br>
    ![Ui](images/Ui.png)
 
 1. Type the command in the command box and press Enter to execute it. e.g. typing **`help`** and pressing Enter will open the help window.<br>
-   Some example commands you can try:
 
-   * `list` : Lists all contacts.
 
-   * `add 12345678 n/John Doe p/99999999 e/johndoe@example.com a/123 Jane Doe Road c/Computer Science t/Student` : Adds a contact named `John Doe` to EduContacts.
+**Some example commands you can try:**
 
-   * `delete 12345678` : Deletes a student contact with StudentID `12345678`.
+    list
+Lists all contacts.
+   
 
-   * `clear` : Deletes all contacts.
+    add 12345678 n/John Doe p/99999999 e/johndoe@example.com a/123 Jane Doe Road c/Computer Science t/Student 
+ Adds a contact named `John Doe` to EduContacts.
 
-   * `exit` : Exits the app.
 
-1. Refer to the [Features](#features) below for details of each command.
+    delete 12345678`  
+Deletes a student contact with StudentID `12345678`.
+
+
+    clear
+Deletes all contacts.
+
+
+    exit
+Exits the app.
+
+
+_Refer to the [Features](#features) below for details of each command._
 
 --------------------------------------------------------------------------------------------------------------------
 
