@@ -51,8 +51,9 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "module-feature": "Module feature",
+        "grade-feature": "Grade feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -65,7 +66,10 @@
         "deleting-a-person": "Deleting a person",
         "saving-data": "Saving data",
         "appendix-effort": "Appendix: Effort",
-        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
+        "data-archiving": "Data archiving",
+        "importing-contact-data": "Importing contact data",
+        "exporting-contact-data": "Exporting contact data"
       },
       "headingKeywords": {}
     },
@@ -110,6 +114,7 @@
       "title": "User Guide",
       "headings": {
         "educontacts-user-guide": "EduContacts User Guide",
+        "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -133,7 +138,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "educontacts": "EduContacts"
       },
       "headingKeywords": {}
     },
