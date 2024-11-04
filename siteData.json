@@ -114,7 +114,6 @@
       "title": "User Guide",
       "headings": {
         "educontacts-user-guide": "EduContacts User Guide",
-        "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -122,7 +121,9 @@
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "listing-students-by-certain-attributes-filter": "Listing students by certain attributes : filter",
+        "adding-a-module-to-a-student-module": "Adding a module to a student: module",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "finding-a-person-find": "Finding a person : find",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
