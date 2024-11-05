@@ -120,6 +120,7 @@
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
+        "adding-a-grade-grade": "Adding a grade : grade",
         "listing-students-by-certain-attributes-filter": "Listing students by certain attributes : filter",
         "adding-a-module-to-a-student-module": "Adding a module to a student: module",
         "deleting-a-person-delete": "Deleting a person : delete",
