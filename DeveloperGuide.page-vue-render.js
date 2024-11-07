@@ -479,6 +479,6 @@ with(this){return _c('h3',{attrs:{"id":"exporting-contact-data"}},[_v("Exporting
 with(this){return _c('ul',[_c('li',[_v("Description: Allow users to export contact data to multiple formats (e.g. CSV, vCard)")]),_v(" "),_c('li',[_v("Benefits:\n"),_c('ul',[_c('li',[_v("Allow users to easily transfer their contact information to other applications or storage solutions.")]),_v(" "),_c('li',[_v("Provide users with the ability to create backups of their contact data.")]),_v(" "),_c('li',[_v("Enable users to share their contact lists with others.")]),_v(" "),_c('li',[_v("Allow users to organize and manipulate their contact data externally.")]),_v(" "),_c('li',[_v("Help users comply with data export regulations or organizational policies.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 20:00:59 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 20:08:52 GMT+8]")])])])}
 }];
   
